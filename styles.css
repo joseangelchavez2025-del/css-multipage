@@ -1,0 +1,25 @@
+body {
+    background-color: darkblue;
+    color: whitesmoke
+
+
+}
+
+h1{
+    font-family: Impact;
+    background-color: fuchsia;
+
+}
+h2{
+    font-size: impact;
+    background-color: black;
+}
+
+a{
+    color: whitesmoke;
+}
+
+.more-info{
+    background-color: white;
+}
+
